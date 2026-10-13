@@ -27,7 +27,7 @@
 
 ### 安装
 ```bash
-git clone https://github.com/your-id/three-stage-rag-kit.git
+git clone https://github.com/zcMia0/three-stage-rag-kit.git
 cd three-stage-rag-kit
 pip install -r requirements.txt
 ```
